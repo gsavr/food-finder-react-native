@@ -2,7 +2,7 @@
 
 ## Preview
 
-![preview](/client/assets/demo.gif)
+![preview](/assets/demo.gif)
 
 ### To run:
 
